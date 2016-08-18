@@ -8,6 +8,13 @@ Time spent: **x** hours spent in total
 
 Live demo URL: **you_can_use_heroku**
 
+
+## Prerequisites -- You should have the following installed on your development machine:
+
+1. Ruby, Rails
+2. PostgreSQL (You can use SQLite, but please re-do the search functionality accordingly)
+
+
 ## Instructions:
 
 1. Fork this repo and clone it to your computer.
